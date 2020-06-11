@@ -21,7 +21,7 @@ WebconfigED.exe "c:\myapp\WebconfigED.exe.config"
 
 ###Note
 
-app.config will be backed up before the operation. **aspnet_regiis.exe** need file name to be ```web.config```   
+```app.config``` will be backed up in the same folder before the operation. **aspnet_regiis.exe** need file name to be ```web.config```   
 
 ## License
 
