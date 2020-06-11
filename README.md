@@ -11,5 +11,7 @@ WebconfigED.exe <path to web.config or app.config>
 ```
 
 ```
-WebconfigED.exe "c:\myweb\web.config" or WebconfigED.exe "c:\myapp\WebconfigED.exe.config"
+WebconfigED.exe "c:\myweb\web.config" 
+or 
+WebconfigED.exe "c:\myapp\WebconfigED.exe.config"
 ```
