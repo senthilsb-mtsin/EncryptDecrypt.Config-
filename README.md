@@ -19,6 +19,10 @@ or
 WebconfigED.exe "c:\myapp\WebconfigED.exe.config"
 ```
 
+###Note
+
+app.config will be backed up before the operation. **aspnet_regiis.exe** need file name to be ```web.config```   
+
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
