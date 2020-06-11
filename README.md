@@ -1,7 +1,7 @@
 # Encrypt Decrypt app.Config or web.config with Machine Key
 Encrypt Decrypt app.config or web.config 
 
-C# Console Program to Encrypt or Decrypt .net config files section
+C# Console Program to Encrypt or Decrypt .net config file section
 
 You can Encrypt sections which has sensitive information like passwords,servernames,share paths etc. with **aspnet_regiis.exe**
 
